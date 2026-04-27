@@ -59,6 +59,7 @@ article.col-25 p a {
 .txt-qirmizi { color: var(--qirmizi) }
 .txt-ag { color: #FFF }
 .vh100 { height: 100vh; }
+.vh150 { height: 150vh; }
 .vh50 { height: 50vh; }
 .artpadding { padding: 50px 40px }
 .txt-center { text-align: center }
